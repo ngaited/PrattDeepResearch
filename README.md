@@ -25,16 +25,19 @@ PrattDeepResearch is an AI-driven research automation pipeline that combines the
 
 ```bash
 # Clone the repository
-git clone https://github.com/ngaited/PrattDeepResearch.git
+git clone https://github.com/yourusername/PrattDeepResearch.git
 cd PrattDeepResearch
 
 # Install required packages
 pip install exa-py langchain langchain-openai python-dotenv
 ```
 
+## Or access the code example on Google Colab
+https://colab.research.google.com/drive/17sUvC5r1BfYv5QRth0vn44gBuyoeT5fi#scrollTo=Yb0ZlytAb2g7
+
 ## 🔑 API Keys Setup
 
-The tool requires the following API keys:
+The tool requires the following API keys, you can request these API keys via OnePratt - https://one.pratt.edu/s/contactsupport :
 1. **Exa API**: For web search capabilities
 2. **OpenAI API**: For access to GPT models
 
